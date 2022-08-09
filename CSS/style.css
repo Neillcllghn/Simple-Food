@@ -1,3 +1,10 @@
-h1 {color: red; background-color: blue;}
+header {color: white; background-color: orange; text-align: center;}
 img {border: 5px;}
 strong {color:red}
+table{border: 10px; border-radius: 10px;}
+body {background-image: url()}
+footer {
+    background-color: #6f4e37;
+    padding: 1em;
+    text-align: center;
+}
