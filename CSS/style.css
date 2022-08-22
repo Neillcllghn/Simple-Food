@@ -1,10 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css?family=Merienda+One|Open+Sans&display=swap');
+
+body{font-family:'Open Sans', Arial, sans-serif;}
+
+h1,h2,h3{font-family:'Merienda One', 'Brush Script MT', cursive}
+
 header {color: white; background-color: orange; text-align: center;}
 img {border: 5px;}
 strong {color:red}
 table{border: 10px; border-radius: 10px;}
-body {background-image: url()}
+
+/*need to add url here*/
+body {background-image: url()} 
+
 footer {
     background-color: #6f4e37;
     padding: 1em;
     text-align: center;
 }
+h1 {font-size:3rem;}
+
+body{background-color: white;
+height: 100vh;
+width: 100vw;
+}
+
+.food-list {
+    border-style: solid;
+    border-color:black;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+
+nav > a {
+	text-decoration: underline;
+	color: black;
+	margin: 1rem;
+    text-align: center;
